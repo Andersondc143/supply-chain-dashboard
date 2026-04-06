@@ -29,3 +29,5 @@ This dashboard gives an operations manager a single view of category
 performance, delivery risk exposure, and order trends — filterable by country. 
 The 55% late delivery risk rate is the standout finding and would be the 
 starting point for any fulfillment improvement initiative.
+
+![Dashboard](your-screenshot-filename.png)
