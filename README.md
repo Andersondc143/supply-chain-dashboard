@@ -1,6 +1,6 @@
 # Supply Chain Operations Dashboard
 
-![Dashboard Preview](paste-the-url-here)
+![Dashboard Preview]([https://github.com/Andersondc143/supply-chain-dashboard/blob/main/Screenshot.PNG?raw=true]
 
 
 Interactive dashboard built in Google Looker Studio using 180,000+ orders 
