@@ -1,5 +1,8 @@
 # Supply Chain Operations Dashboard
 
+![Dashboard Preview](paste-the-url-here)
+
+
 Interactive dashboard built in Google Looker Studio using 180,000+ orders 
 from the DataCo supply chain dataset, tracking sales by category, late 
 delivery risk, and order volume trends.
@@ -29,5 +32,3 @@ This dashboard gives an operations manager a single view of category
 performance, delivery risk exposure, and order trends — filterable by country. 
 The 55% late delivery risk rate is the standout finding and would be the 
 starting point for any fulfillment improvement initiative.
-
-![Dashboard](your-screenshot-filename.png)
